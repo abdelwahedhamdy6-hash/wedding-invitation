@@ -1,0 +1,73 @@
+{
+    "_meta_comment": "TEMPLATE CONFIGURATION",
+    "meta": {
+        "version": "1.1",
+        "private": false,
+        "simpleMode": false,
+        "showSimpleModeToggle": false,
+        "countdown": true
+    },
+    "event": {
+        "title": "Wedding of Jaber & Basant",
+        "subtitle": "Together with our families, we joyfully invite you to celebrate our wedding.",
+        "description": "With hearts full of love and happiness, we are delighted to invite you to share our special day. Your presence will make our celebration even more memorable. We look forward to celebrating with you."
+    },
+    "datetime": {
+        "date": "26-6-2026",
+        "startTime": "09:00pm",
+        "endTime": "12:00am",
+        "timezone": "local",
+        "allDay": false
+    },
+    "location": {
+        "name": "Mirage wedding hall",
+        "address": "4X6C+MVP, Unnamed Road, الطايفة، كفر الشيخ، محافظة كفر الشيخ 6876023",
+        "mapsLink": "https://maps.app.goo.gl/N6Va85aMn9rbinoJ7?g_st=ac"
+    },
+    "schedule": [
+        {
+            "time": "09:00 PM",
+            "label": "Welcome"
+        }
+    ],
+    "rsvp": {
+        "enabled": false,
+        "url": ""
+    },
+    "calendar": {
+        "enabled": true,
+        "providers": {
+            "google": true
+        }
+    },
+    "design": {
+        "theme": "light",
+        "accentColor": "#D4AF37",
+        "heroImages": [],
+        "sectionBackgrounds": []
+    },
+    "music": {
+        "enabled": true,
+        "loop": true,
+        "volume": 0.3,
+        "audioUrl": "https://on.soundcloud.com/LC2dHUgCgFOlTz06GM"
+    },
+    "footer": {
+        "text": "Your presence will make our day complete. See you at the wedding!🥰",
+        "branding": {
+            "link": "#",
+            "logoUrl": "https://raw.githubusercontent.com/Rainier-PS/rainier-ps.github.io/main/images/site/Rainier%20Logo-Primary.svg",
+            "logoAlt": "Logo"
+        },
+        "credits": {
+            "designByLabel": "Created & Designed by",
+            "copyrightYear": "2026",
+            "authorName": "Jaber & Basant",
+            "templateLabel": "Template by",
+            "templateAuthor": "Rainier Pearson Saputra",
+            "templateLink": "https://rainier-ps.github.io/",
+            "repoLabel": "Open Repository",
+            "repoLink": "https://github.com/Rainier-PS/Invitation-Template"
+        }
+    }
+}
